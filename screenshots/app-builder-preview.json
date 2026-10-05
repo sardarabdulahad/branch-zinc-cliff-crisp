@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SA Marketing | Digital Marketing & E-commerce Growth Strategist",
+      "hasCanvas": false,
+      "bodyTextLen": 6940,
+      "bodyTextHash": "7cb8305cb4e2eea60db6b4e450262e909bed00d11323a6aa1be5a08b467a5f86",
+      "bodyTextPrefix": "SA Marketing About Services Shopify Audit Work Skills Book a Cal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SA Marketing | Digital Marketing & E-commerce Growth Strategist",
+      "hasCanvas": false,
+      "bodyTextLen": 6887,
+      "bodyTextHash": "41f3910a6b232636d4baa5dda406da82a822667df41be89614233b343e872ea9",
+      "bodyTextPrefix": "SA Marketing Digital Marketing & E-commerce Growth Digital Marke",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
